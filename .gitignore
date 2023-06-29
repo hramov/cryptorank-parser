@@ -1,0 +1,5 @@
+.idea
+.env
+.prettierrc
+package-*
+node_modules/
